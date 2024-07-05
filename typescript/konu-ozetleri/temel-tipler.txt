@@ -1,4 +1,15 @@
-// Temel tipler: string, number, boolean, undefined, null, object
+## Temel tipler: string, number, boolean, undefined, null, object
 
 
 let firstName : string = "Yusuf";
+firstName = 23;   --> burada string bi degiskene number atanamaz, hata alinir
+
+let age : number = 24;
+let result : boolean = false;
+let x : undefined = undefined; 
+let y : null = null;
+
+
+## ANY (tipi bilinmeyen ancak tanımlanan deger açısından kullanılmaya izin veren tiptir)
+
+let year : any = "2024"; 
