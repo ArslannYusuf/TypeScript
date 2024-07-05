@@ -1,0 +1,4 @@
+// Temel tipler: string, number, boolean, undefined, null, object
+
+
+let firstName : string = "Yusuf";
